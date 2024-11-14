@@ -1,6 +1,16 @@
-# Coffee-smoke-shader
-Projet Animation d'une tasse de café 
+# Three.js Journey
 
-Après avoir récupéré le REPO executez la commande npm install pour installer les dépendances du projet
+## Setup
+Download [Node.js](https://nodejs.org/en/download/).
+Run this followed commands:
 
-Une fois les dépendances installées lancez le projet avec la commande npm run dev
+``` bash
+# Install dependencies (only the first time)
+npm install
+
+# Run the local server at localhost:8080
+npm run dev
+
+# Build for production in the dist/ directory
+npm run build
+```
