@@ -30,7 +30,7 @@ Voici un aperçu des technologies et outils utilisés dans le projet :
 ## 📚 **Installation**  
 
 1. **Téléchargez le projet** :  
-   Téléchargez ou clonez ce dépôt sur votre machine locale.  
+   Téléchargez ce dépôt sur votre machine locale.  
 
 2. **Installez les dépendances** :  
    Ouvrez un terminal dans le répertoire du projet et exécutez :  
