@@ -1,4 +1,4 @@
-# Coffee Smoke Shader
+# Coffee Smoke Shader ☕ 
 
 **Coffee Smoke Shader** est un projet d'animation 3D qui simule l'effet visuel réaliste de la vapeur qui s'échappe d'un mug de café. Ce projet se concentre sur l'interaction entre la chaleur du café et l'environnement, en générant une animation fluide et dynamique qui combine des shaders et des effets visuels réalistes. Grâce à l'utilisation de **Perlin Noise** pour simuler la fumée et un calcul précis des ombres dynamiques basées sur la chaleur corporelle, ce projet crée une ambiance immersive et esthétique autour d'une scène quotidienne.
 
